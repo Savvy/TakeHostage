@@ -1,4 +1,6 @@
-# Take Hostage by Robbster
+# Take Hostage by Robbster modified by Savvy
+
+## Original Repo: https://github.com/rubbertoe98/FiveM-Scripts
 
 Instructions on how to use:
 Type /takehostage, a valid weapon is needed(Add or remove weapons in cl_takehostage.lua)
